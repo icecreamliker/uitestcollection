@@ -1,11 +1,11 @@
 # IndigoUnited/automaton
 
-> github地址：https://github.com/IndigoUnited/automaton  
+> github：https://github.com/IndigoUnited/automaton  
 
 > Star: 220  
 > Fork: 11  
 > Watch: 20     
-> 以上截止到2016.08.17 
+> Up to 2016.08.17 
 
 ## WHY?
 You often find yourself needing to do some repetitive operation, and this is usually the time to quickly bake some ad-hoc script. Still, from project to project you find yourself needing to reuse some task you had already previously created.
@@ -16,7 +16,7 @@ A little detail that makes Automaton a powerful tool, is that every autofile you
 
 ### Simple Task
 
-```
+```javascript
 module.exports = function (task) {
     task
     .id('my-task')
@@ -40,7 +40,7 @@ module.exports = function (task) {
 
 ### Run with nodejs
 
-```
+```javascript
 var automaton = require('automaton').create(/*options go here*/);
 
 // Since autofiles are node modules themselves,
@@ -65,7 +65,7 @@ automaton.run(myTask, { 'some_option': 'that is handy' }, function (err) {
 
 ### Grunt Task
 
-```
+```javascript
 module.exports = function (task) {
     task
     .id('bogus')

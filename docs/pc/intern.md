@@ -1,11 +1,11 @@
 # theintern/intern
 
-> github地址： https://github.com/theintern/intern
+> github： https://github.com/theintern/intern
 
 > Star: 3487    
 > Fork: 267         
 > Watch: 142      
-> 以上截止到2016.08.17  
+> Up to 2016.08.17  
 > 
 
 
@@ -38,7 +38,7 @@ node_modules/.bin/intern-client config=tests/intern
 
 * ##### Start writing tests! 
 
-```
+```javascript
 define(function (require) {
   var registerSuite = require('intern!object');
   var assert = require('intern/chai!assert');

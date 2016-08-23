@@ -1,10 +1,10 @@
 # Alibaba/f2etest
 
-> github地址：https://github.com/alibaba/f2etest  
+> github：https://github.com/alibaba/f2etest  
 > Star: 1346  
 > Fork: 275  
 > Watch: 161    
-> 以上截止到2016.08.17
+> Up to 2016.08.17
 
 
 ### F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
