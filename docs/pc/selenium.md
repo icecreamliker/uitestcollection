@@ -1,10 +1,10 @@
 # SeleniumHQ/selenium
-> github地址： https://github.com/SeleniumHQ/selenium
+> github： https://github.com/SeleniumHQ/selenium
 
 > Star: 4120  
 > Fork: 2052   
 > Watch: 676    
-> 以上截止到2016.08.17  
+> Up to 2016.08.17  
 
 ### What is Selenium?
 

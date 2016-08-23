@@ -1,11 +1,11 @@
 # NetEase/Dagger
 
-> github地址： https://github.com/NetEase/Dagger  
+> github： https://github.com/NetEase/Dagger  
 
 > Star: 282  
 > Fork: 170  
 > Watch: 75    
-> 以上截止到2016.08.17  
+> Up to 2016.08.17  
 
 ### 概述
 

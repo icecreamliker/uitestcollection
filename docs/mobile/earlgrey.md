@@ -1,11 +1,11 @@
 #google/EarlGrey 
 
-> github地址： https://github.com/google/EarlGrey
+> github： https://github.com/google/EarlGrey
 
 > Star: 2922    
 > Fork: 331         
 > Watch: 195      
-> 以上截止到2016.08.17  
+> Up to 2016.08.17  
 > 
 
 ### What is EarlGrey?

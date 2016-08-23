@@ -1,10 +1,10 @@
 # ariya/phantomjs
-> github地址： https://github.com/ariya/phantomjs
+> github： https://github.com/ariya/phantomjs
 
 > Star: 19126  
 > Fork: 3957      
 > Watch: 997    
-> 以上截止到2016.08.17  
+> Up to 2016.08.17  
 
 ## Full web stack No browser required
 
@@ -24,7 +24,7 @@ Monitor page loading and export as standard HAR files. Automate performance anal
 #### PhantomJS is used in the test workflow of various open-source projects:
 Bootstrap, CodeMirror, Ember.js, jQuery Mobile, Less.js, Modernizr, YUI3, and many more.
 
-```
+```javascript
 // Simple Javascript example
 
 console.log('Loading a web page');
