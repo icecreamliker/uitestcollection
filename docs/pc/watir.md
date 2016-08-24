@@ -1,11 +1,11 @@
 #watir/watir
 
-> github地址： https://github.com/watir/watir
+> github： https://github.com/watir/watir
 
 > Star: 637    
 > Fork: 135         
 > Watch: 67      
-> 以上截止到2016.08.17  
+> Up to 2016.08.17  
 
 ### What is watir?
 

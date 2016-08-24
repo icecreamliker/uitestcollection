@@ -4,12 +4,12 @@
 
 
 
-> github地址： https://github.com/totorojs/totoro  
+> github： https://github.com/totorojs/totoro  
 
 > Star: 521  
 > Fork: 100  
 > Watch: 52    
-> 以上截止到2016.08.17
+> Up to 2016.08.17
 
 ### 特性
 

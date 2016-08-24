@@ -1,11 +1,11 @@
 # dalekjs/dalek
 
->github地址： https://github.com/dalekjs/dalek
+>github： https://github.com/dalekjs/dalek
 >
 >Star: 700  
 >Fork: 66  
 >Watch: 54    
->以上截止到2016.08.17
+>Up to 2016.08.17
 
 
 ### DalekJS is an open source UI testing tool written in JavaScript, it will:
@@ -21,7 +21,7 @@
 
 ### 写法：
 
-```
+```javascript
 module.exports = {
 'Page title is correct': function (test) {
   test
